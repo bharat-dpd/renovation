@@ -1,0 +1,23 @@
+{
+    "name": "renovation",
+    "version": "0.0.1",
+    "description": "we  will get you the best men on the job for the particular work",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js",
+        "test":"echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bharat Bhushan",
+    "license": "MIT",
+    "dependencies": {
+        "crypto"        : "0.0.3",
+        "underscore"    : "^1.6.0",
+        "validator"     : "^3.16.1",
+        "pkginfo"       :"0.3.0",
+        "mongoose"      :"3.8.18",
+        "express"       : "~4.0.0",
+        "morgan"        : "~1.0.0",
+        "body-parser"   : "~1.0.1",
+       "method-override": "~1.0.0"
+    }
+}
